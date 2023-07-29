@@ -1,2 +1,2 @@
 # Pong
- I challenged myself to create pong game without looking at pre-existing code to improve my game mechanics building skills
+week0 assignment of (CS50’s Introduction to Game Development) in Unity. The whole game is two AI-controlled paddles playing pong.
